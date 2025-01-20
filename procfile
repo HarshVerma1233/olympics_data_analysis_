@@ -1,0 +1,1 @@
+web: sh setup.sh  &&  streamlit run c:\Users\HP\Desktop\data_project\venv\app.py
